@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Nare Tlabela
-- 👀 I’m currently working with HTML,CSS,JavaScript,Bootstrap an React.JS to build creative web projects ...
-- 🌱 I’m currently learning  more of Angular,Python,Next.JS and API'S...
+- 👀 I’m currently working with HTML,CSS,JavaScript,Bootstrap an React to build creative web projects ...
+- 🐍 I'm working with Python and Flask to develop back-end functionality.
+- 🌱 I'm expanding my skills in Angular, Next.js, and APIs..
+- 🗄️ I use PostgreSQL for database management and Render for application deployment.
 - 💞️ I’m looking for  full time Front-End Developer roles...
-- 📫 How to reach me ...https://www.linkedin.com/in/nare-fikamva-1204a2152?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 📫 Connect with me on nkedin.com/in/nare-tlabela-1204a2152/
 - ⚡ I love Real life documentaries and travelling
 
 <!---
-NareFK91/NareFK91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NareT91/NareT91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
